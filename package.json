@@ -16,7 +16,7 @@
     "reactstrap": "^9.1.5",
     "remixicon": "^2.5.0",
     "slick-carousel": "^1.8.1",
-    "vercel": "^28.14.1",
+    "vercel": "^28.16.12",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
